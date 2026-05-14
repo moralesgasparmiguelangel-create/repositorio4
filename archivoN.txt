@@ -1,1 +1,6 @@
 esto es un archivo de prueba
+
+cambio registradogi
+
+Cambio para git cli
+
